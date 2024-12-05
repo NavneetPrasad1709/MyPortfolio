@@ -17,7 +17,7 @@ const Page7 = () =>{
           <h1 className='text3-7 text-[18vw] font-[anzo5] text-white uppercase '>can </h1>
           <h1 className='text4-7 text-[18vw] font-[anzo5] text-white uppercase '>you </h1>
         </div>
-2          
+         
       <div className=' ml-20 w-[86vw] flex justify-between justify-items-end'>
         <h2 className='p1 text-xl bg-wh font-[anzo2] w-[25vw] text-white'><span className='text-gray-400'>As a skilled software developer, I specialize in turning ideas into functional, user-friendly, and scalable solutions.</span> build a custom application, optimize an existing system, or integrate new technologies, I bring a strong technical skills and a problem-solving mindset to every project. </h2> 
 
