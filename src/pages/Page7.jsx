@@ -7,7 +7,7 @@ const Page7 = () =>{
 
 
         
-    <div className='bg7 mt-10 h-[80vw] bg-[url(./public/src/assets/Mobg3.jpg)] rounded-[40px]'> 
+    <div className='bg7 mt-10 h-[80vw] bg-[url(https://static.wixstatic.com/media/f1c650_1baf8f9dcad444669565ec73ee697a92~mv2.jpg/v1/fill/w_1861,h_874,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Background%20Anzo_Studio.jpg)] rounded-[40px]'> 
 
         <div className='page7_1 flex ml-20 w-[85vw] justify-between '>
           <h1 className='text1-7  text-[20vw] font-[anzo5] text-yellow-200 uppercase '>How  </h1>
