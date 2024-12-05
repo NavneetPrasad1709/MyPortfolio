@@ -7,7 +7,7 @@ const Page7 = () =>{
 
 
         
-    <div className='bg7 mt-10 h-[80vw] bg-[url(./src/assets/Mobg3.jpg)] rounded-[40px]'> 
+    <div className='bg7 mt-10 h-[80vw] bg-[url(./public/Mobg3.jpg)] rounded-[40px]'> 
 
         <div className='page7_1 flex ml-20 w-[85vw] justify-between '>
           <h1 className='text1-7  text-[20vw] font-[anzo5] text-yellow-200 uppercase '>How  </h1>

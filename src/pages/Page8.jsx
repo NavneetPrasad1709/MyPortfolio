@@ -5,7 +5,7 @@ const Page8 = () =>{
 
 <div className='main8 relative bg-red w- full p-5 mt-16'>
 
-    <div className='sub8 flex  mt-10 h-[72vw] bg-[url(./src/assets/Mobg3.jpg)] rounded-[40px]'>
+    <div className='sub8 flex  mt-10 h-[72vw] bg-[url(./public/Mobg3.jpg)] rounded-[40px]'>
 
       <div className=' '>
         <h1 className='text1-8 mt-10 absolute text-[20vw] font-[anzo5] text-yellow-200 uppercase top-5 left-20'>Right</h1>
