@@ -6,7 +6,7 @@ const Page2 = () => {
   useEffect(() => {
     const initAnimation = () => {
       if (window.innerWidth > 580) {
-        // Ensure gsap plugin is registered
+   
         gsap.registerPlugin(ScrollTrigger);
 
         gsap.from('.rotateText', {
